@@ -14,5 +14,7 @@ Essa documentação é dividida em 3 partes:
 
 3. Views de BI são tabelas compiladas com os principais dados da locadora. A Blue Fleet disponibiliza um conjunto views para que a locadora tenha a liberdade de trabalhar os dados e gerar visões da sua locadora no sistema de BI de sua preferência, como por exemplo PowerBI, Tableau, QlikView e etc.
 
+Visite o nosso site https://developers.bluefleet.com.br
+
 Suporte
 Nossa documentação é bem completa, mas sabemos que ao longo da integração você pode ter dúvidas. Caso isso ocorra, entre em contato conosco através do e-mail suporte@bluefleet.com.br.
