@@ -16,5 +16,5 @@ Essa documentação é dividida em 3 partes:
 
 Visite o nosso site https://developers.bluefleet.com.br
 
-Suporte
+## Suporte
 Nossa documentação é bem completa, mas sabemos que ao longo da integração você pode ter dúvidas. Caso isso ocorra, entre em contato conosco através do e-mail suporte@bluefleet.com.br.
